@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Library AI Readiness Toolkit"
+message: "If you use or adapt this toolkit, please cite it."
+type: "generic"
+authors:
+  - family-names: "Lillich"
+    given-names: "Alicia-Marie"
+repository-code: "https://github.com/NIH-Library/library-ai-readiness-toolkit"
+license: "MIT"
